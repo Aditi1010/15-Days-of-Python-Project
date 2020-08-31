@@ -1,4 +1,4 @@
-# WiMLDS-30-Days-of-Python-Project
+# 30-Days-of-Python-Project
 
 PROJECT DETAILS :
 
