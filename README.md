@@ -1,4 +1,4 @@
-# 30-Days-of-Python-Project
+# 15-Days-of-Python-Project
 
 PROJECT DETAILS :
 
